@@ -1,4 +1,4 @@
-import parser
+
 import argparse
 import torchvision.models as models
 
